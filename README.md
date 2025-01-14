@@ -14,6 +14,14 @@
 
 ---
 
+### Recognition
+
+Even before its official release, **GitRaptor** has caught the attention of leading cybersecurity platforms.
+
+> <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/feed/update/urn:li:activity:7281216516333690880?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7281216516333690880%2C7282463242625368065%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287282463242625368065%2Curn%3Ali%3Aactivity%3A7281216516333690880%29"><img src="assets/thn.png" width="90%" /></a>
+
+---
+
 ### Features
 
 #### Key Capabilities
@@ -82,12 +90,6 @@ The image above demonstrates a direct comparison between **GitRaptor** and the w
   - **Result**: Minimal valuable content, showing limited extraction capabilities.
 
 This comparison highlights GitRaptor's efficiency and thoroughness in extracting critical files, making it a superior choice for analysis and recovery.
-
-### Recognition
-
-Even before its official release, **GitRaptor** has caught the attention of leading cybersecurity platforms.
-
-> <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/feed/update/urn:li:activity:7281216516333690880?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7281216516333690880%2C7282463242625368065%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287282463242625368065%2Curn%3Ali%3Aactivity%3A7281216516333690880%29"><img src="assets/thn.png" width="90%" /></a>
 
 ### Community
 
