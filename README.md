@@ -43,7 +43,7 @@ Even before its official release, **GitRaptor** has caught the attention of lead
 ### Quick Start
 
 1. **Download the Latest Release**
-   Visit the [Releases Page](https://github.com/wezoomagency/GitRaptor/releases/download/v1.0.0/gitraptor-v1.0.0-amd64.tar.gz) to download the latest version of GitRaptor for your platform.
+   Visit the [Releases Page](https://github.com/wezoomagency/GitRaptor/releases/download/v1.0.0-beta.1/gitraptor-v1.0.0-beta.1.tar.gz) to download the latest version of GitRaptor for your platform.
 
 2. **Run GitRaptor**
    After downloading the binary, make it executable and run it:
